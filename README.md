@@ -15,3 +15,5 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=white" />
   <img alt="Shell" src="https://img.shields.io/badge/-Shell-inactive?style=flat-square&logo=shell&logoColor=white" />
 </p>
+
+[![Kyube's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyube)](https://github.com/Kyube5/Kyube5)
