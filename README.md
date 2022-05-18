@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <strong>Hello, I'm Quentin,</strong> 
+  <strong>Hello, I'm Quentin,</strong> I am specialize in computer security and I train in self-taught Web development.
 </p>
 <h3>Various techs I use</h3>
 <p>
