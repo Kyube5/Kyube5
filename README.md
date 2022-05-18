@@ -1,12 +1,12 @@
 ![Logo](https://github.com/Kyube5/Kyube5/blob/main/logo1.PNG)
 
 <p>
-  <strong>Hello, I'm Nicolas,</strong> Freelance web developer and blogger from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Tours, France</b>. I recently discovered the english term "wordsmith" <img src="https://cdn-icons-png.flaticon.com/512/2670/2670296.png" width="20" style="vertical-align: bottom;"/>, and I think it describes me quite well.
+  <strong>Hello, I'm Quentin,</strong> 
 </p>
 <h3>Various techs I use</h3>
 <p>
   
-  <img alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=white" />  
+  <img alt="vue" src="[https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=white](https://img.shields.io/badge/-Powershell-informational)" />  
   <img alt="React-Native" src="https://img.shields.io/badge/-React--Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
