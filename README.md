@@ -16,5 +16,5 @@
   <img alt="Shell" src="https://img.shields.io/badge/-Shell-inactive?style=flat-square&logo=shell&logoColor=white" />
 </p>
 
-![Kyube's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyube&show_icons=true&theme=dark)
+![Kyube's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyube&show_icons=true&theme=yeblu)
 
