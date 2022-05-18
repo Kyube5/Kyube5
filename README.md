@@ -1,6 +1,6 @@
 ![Logo](https://github.com/Kyube5/Kyube5/blob/main/logo1.PNG)
 <p align="center">
-  <img src="[https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/portrait.png](https://github.com/Kyube5/Kyube5/blob/main/logo1.PNG)"/>
+  <img src="https://github.com/Kyube5/Kyube5/blob/main/logo1.PNG"/>
 </p>
 
 <p>
