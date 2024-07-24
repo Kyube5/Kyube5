@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Kyube5/Kyube5/blob/main/logo6.png"/>
-</p>
-
 <p>
   <strong>Hello, I'm Quentin,</strong> I work in computer security and I train in self-taught script development.
 </p>
