@@ -1,7 +1,11 @@
+<h3>About</h3>
+
 <p>
   <strong>Hello, I'm Quentin,</strong> I work in computer security and I train in self-taught script development.
 </p>
+
 <h3>Various techs I use</h3>
+
 <p>
   
   <img alt="Powershell" src="https://img.shields.io/badge/-Powershell-informational?style=flat-square&logo=powershell&logoColor=white" />
